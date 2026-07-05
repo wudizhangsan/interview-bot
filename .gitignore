@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# IDE
+.idea/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Environment
+.env
+
+# Test cache
+.pytest_cache/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Database
+*.db

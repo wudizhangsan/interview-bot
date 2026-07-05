@@ -1,0 +1,11 @@
+openai-agents>=0.6.1
+pydantic>=2.0
+fastapi>=0.115.0
+uvicorn>=0.35.0
+python-multipart>=0.0.20
+pdfplumber>=0.11.0
+python-docx>=1.1.0
+requests>=2.31.0
+pandas>=2.0
+pytest>=8.0
+pytest-asyncio>=0.24
